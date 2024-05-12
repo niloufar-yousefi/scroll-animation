@@ -4,7 +4,7 @@
 
 ![scroll animation](https://github.com/niloufar-yousefi/scroll-animation/assets/156951582/24c23ca8-f386-4806-859c-771a6bdbf1fb)
 
-- [Demo Project]([https://niloufar-yousefi.github.io/ToDoList/](https://niloufar-yousefi.github.io/scroll-animation/))
+- [Demo Project](https://niloufar-yousefi.github.io/scroll-animation/)
 
 
 - Developed by Niloofar Yoosefi
